@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: verdana;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.video, .phone-icon {
+  margin-top: 20px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+footer p{
+  text-align: right;
+}
